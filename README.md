@@ -1,4 +1,4 @@
-#Travel Planning Assistant
+## Travel Planning Assistant
 
 A travel planning application that helps users plan trips by suggesting destinations, accommodations, activities, and restaurants based on personal preferences, budget, and travel style.
 
