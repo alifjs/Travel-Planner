@@ -2,6 +2,9 @@
 
 A travel planning application that helps users plan trips by suggesting destinations, accommodations, activities, and restaurants based on personal preferences, budget, and travel style.
 
+## Live Site
+https://travel-trove-quest.netlify.app/
+
 ## Features
 
 - **Personalized Travel Itineraries**: Get custom travel plans based on your preferences
